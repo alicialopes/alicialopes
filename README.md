@@ -3,8 +3,7 @@
 
 - 👾 Systems Analysis and Development Student
 - ✨ IFSP - Instituto Federal de São Paulo (Federal Institute of Sao Paulo)
-- 💥 I am currently studying C, SQL, Python, HTML, CSS and JavaScript languages!
-- 💎 I am also studying the course AI-900: Microsoft Azure AI Fundamentals!
+- 💎 I am currently studying C, SQL, Python, HTML, CSS and JavaScript languages!
 
 ##
 <div align="center">
